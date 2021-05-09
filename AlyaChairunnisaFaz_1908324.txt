@@ -5,4 +5,4 @@
  Aamiin.
 ====================================================================================================
 
-kesulitan : kendala di netbeans nya invalid java terus
+kesulitan : kendala di netbeans nya invalid java terus kang
