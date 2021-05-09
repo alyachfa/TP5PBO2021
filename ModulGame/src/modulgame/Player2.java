@@ -10,9 +10,9 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Fauzan
+ * @author AlyaCF
  */
-public class Player extends GameObject{
+public class Player2 extends GameObject{
     
     public Player(int x, int y, ID id){
         super(x, y, id);
@@ -32,7 +32,7 @@ public class Player extends GameObject{
 
     @Override
     public void render(Graphics g) {
-        g.setColor(Color.decode("#3f6082"));
+        g.setColor(Color.decode("#ff99cc"));
         g.fillRect(x, y, 50, 50);
     }
 }

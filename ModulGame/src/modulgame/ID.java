@@ -11,5 +11,7 @@ package modulgame;
  */
 public enum ID {
     Player(),
+    Musuh(),
+    Player2(),
     Item();
 }
